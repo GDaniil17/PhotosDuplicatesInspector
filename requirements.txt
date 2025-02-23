@@ -1,0 +1,6 @@
+torch
+numpy
+transformers
+flask
+accelerate>=0.26.0
+pillow

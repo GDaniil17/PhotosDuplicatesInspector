@@ -1,6 +1,6 @@
 # 📸 PhotosDuplicatesInspector
 
-**PhotosDuplicatesInspector** clusters images based on similarity using a **pretrained SOTA model (SigLIP 2)** and provides a **web-based UI** for visualization, selection, and export. 🚀
+**PhotosDuplicatesInspector** clusters images based on similarity using a [**pretrained SOTA model (SigLIP 2)**](https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/image_text/README_siglip2.md) and provides a **web-based UI** for visualization, selection, and export. 🚀
 
 ---
 
